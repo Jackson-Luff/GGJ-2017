@@ -25,3 +25,8 @@
 *.exe
 *.out
 *.app
+
+# Excess folders
+GGJ_2017/Build/
+GGJ_2017/Saved/
+GGJ_2017/Intermediate/
